@@ -5,6 +5,7 @@ body {
 
 .container {
   display: flex;
+  justify-content: flex-start;
   background-color: #4DD7FA; 
   margin-right: 70%;
   margin-bottom: 5%; 
