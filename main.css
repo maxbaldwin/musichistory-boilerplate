@@ -4,7 +4,18 @@ body {
 }
 
 .container {
-  background-color: green; 
+  display: flex;
+  background-color: #4DD7FA; 
+  margin-right: 70%;
+  margin-bottom: 5%; 
+  border: 0.25em solid black; 
+}
+
+.RightSide {
+  display: flex;
+  flex-direction: right; 
+  background-color: #4DD7FA;  
+  border: 0.25em solid black; 
 }
 
 nav > ul {
