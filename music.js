@@ -6,6 +6,7 @@ songs[songs.length] = "Get By > by Clique";
 songs[songs.length] = "Saddle Up, San Antonio > by You Blew It!";
 songs[songs.length] = "If and When I Die > by TWIABP";
 songs[songs.length] = "Vertigo Chamber > Hightide Hotel";
+songs[songs.length] = "Tangled > Frameworks";
 
 
 //For loop to iterate through songs
