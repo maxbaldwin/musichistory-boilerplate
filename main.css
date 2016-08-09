@@ -1,4 +1,27 @@
+body {
+  font-family: "Futura";
+  font-size: 0.75em;
+}
+
 .container {
   background-color: green; 
 }
 
+nav > ul {
+  list-style-type: none; 
+  margin: 20px 5px 0 -30px;
+  display: block; 
+  padding-bottom: 3%;
+}
+
+nav {
+  border: 0.25em solid black;
+  background-color: #FFB4B0; 
+  margin: 2% 5% 2%  5%; 
+  text-align: left;
+  padding-left: 10px;
+}
+
+nav li {
+display: inline-block;
+}
